@@ -155,7 +155,7 @@
     <fieldset>
         <legend>Datos del Responsable</legend>
 
-        <label for="responsable_nombre">Nombre:</label>
+        <label for="responsable_nombre">Nombre completo:</label>
         <input type="text" id="responsable_nombre" name="responsable_nombre" required>
 
         <label for="responsable_telefono">Teléfono:</label>

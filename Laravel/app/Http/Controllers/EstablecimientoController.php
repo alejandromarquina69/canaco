@@ -23,8 +23,6 @@ $request->validate([
 ]);
 
 Establecimiento::create($request->all());
-
-
         return redirect('/registro-establecimiento')->with('success', 'Establecimiento registrado con éxito');
     }
 }
