@@ -1,4 +1,4 @@
-# Repositorio CANACO - Análisis de Tecnologías
+# CANACO - Análisis de Tecnologías
 
 Este espacio está dedicado a la gestión y desarrollo de los distintos módulos y recursos asociados al proyecto. Aquí encontrarás el código fuente principal de nuestra aplicación relacionado con el sistema de sorteos de la plataforma de CANACO, así como la documentación relevante y otros artefactos de desarrollo.
 
